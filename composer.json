@@ -1,6 +1,6 @@
 {
-  "name": "hevinci/url-bundletest",
-  "description": "Url Plugin for Claroline Connect",
+  "name": "hevinci/url-bundle",
+  "description": "Url Plugin for Claroline Connect test fork",
   "homepage": "http://www.claroline.net",
   "type": "claroline-plugin",
   "autoload": {
